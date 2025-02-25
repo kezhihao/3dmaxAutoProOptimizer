@@ -1,0 +1,2 @@
+# 3dmaxAutoProOptimizer
+3dmax自动减面脚本插件，一键将大于一定顶点数的模型批量增加专业优化修改器并减面
